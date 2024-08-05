@@ -7,7 +7,7 @@ function Footertop() {
 
     {/* first portion */}
         <div className="min-h-[300px] flex flex-col justify-start items-center p-4  ">
-          <a href='https://www.instagram.com/apple_kids24?utm_source=qr&igsh=MXc3OHVsNzl6aHF3Zw=='>
+          <a  target='_blank' href='https://www.instagram.com/applekidskindergarten/'>
           <h1 className="font-fredoka sm:text-4xl text-md font-black w-full h-16 flex justify-center items-center tracking-wider ">
       Instagram&nbsp;<span className="text-[#F06D4F]">@Apple Kids🍏</span>
     </h1>
