@@ -1,0 +1,23 @@
+
+/* App.css */
+
+
+
+@keyframes resizeBackground {
+  0% {
+    background-size: 30%;
+  }
+  100% {
+    background-size: 50%;
+  }
+}
+
+.animate-bg {
+  animation: resizeBackground 1s ease-in-out forwards;
+}
+
+/* *{
+  padding: 0px;
+  margin: 0px;
+} */
+
